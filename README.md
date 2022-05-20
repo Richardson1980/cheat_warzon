@@ -1,2 +1,2 @@
 # cheat_warzon
-fixed bog
+fixed bug
